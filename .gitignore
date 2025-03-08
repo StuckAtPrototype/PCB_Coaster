@@ -1,0 +1,9 @@
+build/
+dependencies.lock
+.idea/
+cmake-build-debug/
+sdkconfig.old
+sdkconfig
+venv/
+firmware/managed_components/
+.DS_Store
